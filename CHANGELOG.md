@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.1](https://www.github.com/googleapis/java-networkconnectivity/compare/v0.1.0...v0.1.1) (2021-02-16)
+
+
+### Bug Fixes
+
+* update repo name ([#21](https://www.github.com/googleapis/java-networkconnectivity/issues/21)) ([07a3c70](https://www.github.com/googleapis/java-networkconnectivity/commit/07a3c70e8eb7fb79bc5c6d3f2929a10851f837f2))
+
 ## 0.1.0 (2021-01-28)
 
 
